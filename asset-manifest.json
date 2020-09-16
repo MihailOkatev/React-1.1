@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-1.1/static/css/main.b9994b96.chunk.css",
+    "main.js": "/React-1.1/static/js/main.4555d24a.chunk.js",
+    "main.js.map": "/React-1.1/static/js/main.4555d24a.chunk.js.map",
+    "runtime-main.js": "/React-1.1/static/js/runtime-main.5ae06f96.js",
+    "runtime-main.js.map": "/React-1.1/static/js/runtime-main.5ae06f96.js.map",
+    "static/js/2.90ed019a.chunk.js": "/React-1.1/static/js/2.90ed019a.chunk.js",
+    "static/js/2.90ed019a.chunk.js.map": "/React-1.1/static/js/2.90ed019a.chunk.js.map",
+    "index.html": "/React-1.1/index.html",
+    "precache-manifest.e944d69dbb66bf64f2c184019315d566.js": "/React-1.1/precache-manifest.e944d69dbb66bf64f2c184019315d566.js",
+    "service-worker.js": "/React-1.1/service-worker.js",
+    "static/css/main.b9994b96.chunk.css.map": "/React-1.1/static/css/main.b9994b96.chunk.css.map",
+    "static/js/2.90ed019a.chunk.js.LICENSE.txt": "/React-1.1/static/js/2.90ed019a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/React-1.1/static/media/item-blue.8bcbdffe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae06f96.js",
+    "static/js/2.90ed019a.chunk.js",
+    "static/css/main.b9994b96.chunk.css",
+    "static/js/main.4555d24a.chunk.js"
+  ]
+}
